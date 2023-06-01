@@ -8,6 +8,7 @@ This analysis takes a dataset containing the caffeine and caloric content of 610
 * Soft Drinks
 * Tea 
 * Water
+
 The average caffeine and caloric content of each drink type is compared to their average volume to illustrate the density of caffeine and calories in respect to each drink types' volumes.
 
 Original dataset created by Heitor Nunes can be found here on Kaggle:
